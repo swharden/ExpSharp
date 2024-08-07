@@ -1,4 +1,9 @@
-﻿using System.Diagnostics;
+﻿/* Code in this file is adapted by Scott Harden from work by Rod Stephens
+ * http://www.csharphelper.com/howtos/howto_exponential_curve_fit.html
+ * This adaptation is shared under a MIT license with
+ * permission from the original author (granted on 2024-07-31)
+ */
+using System.Diagnostics;
 
 namespace ExpSharp;
 
